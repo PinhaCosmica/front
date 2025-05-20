@@ -1,4 +1,4 @@
-
+# ADVERTENCIA, AL FINAL NO USE EL 1.5 :v
 # 🐾 VetTrack - Sistema de Registro de Mascotas
 
 **VetTrack** es una aplicación web básica desarrollada en **Flask**, con una arquitectura en 3 capas, diseñada para registrar y listar mascotas de manera remota utilizando servicios en la nube (AWS).
